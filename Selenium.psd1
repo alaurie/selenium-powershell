@@ -39,7 +39,7 @@
 
             # A URL to an icon representing this module.
             # IconUri = ''
-            Prerelease   = 'preview2'
+            Prerelease   = 'preview3'
         } # End of PSData hashtable
 
     } # End of PrivateData hashtable
@@ -69,7 +69,7 @@
     # RequiredModules = @()
 
     #Type files (.ps1xml) to be loaded when importing this module
-    TypesToProcess       = @('types/Selenium.Types.ps1xml')
+    TypesToProcess       = @('types/Selenium.types.ps1xml')
 
     # Format files (.ps1xml) to be loaded when importing this module
     FormatsToProcess     = @('formats/Selenium.format.ps1xml')
